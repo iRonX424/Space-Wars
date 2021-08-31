@@ -6,4 +6,4 @@ Controls -
 * Basic movement controls
 * Press [ Space ] to shoot
 
-[ The built application is in Space-Wars/Space Shooter/Built Application/ ]
+[ The built application is in Space-Wars/Space Shooter/Built Application/Yeet Yourself.exe ]
